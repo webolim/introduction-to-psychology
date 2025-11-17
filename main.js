@@ -40,25 +40,25 @@ document.addEventListener("DOMContentLoaded", function() {
                 });
             });
 
-            const acc = document.getElementsByClassName("accordion");
-            for (let i = 0; i < acc.length; i++) {
-                acc[i].addEventListener("click", function() {
-                    for (let j = 0; j < acc.length; j++) {
-                        if (i !== j) {
-                            acc[j].classList.remove("active");
-                            acc[j].nextElementSibling.style.maxHeight = null;
-                        }
-                    }
-
+            const accordions = document.getElementsByClassName("accordion");
+            for (const accordion of accordions) {
+                accordion.addEventListener("click", function () {
                     this.classList.toggle("active");
                     const panel = this.nextElementSibling;
                     if (panel.style.maxHeight) {
                         panel.style.maxHeight = null;
                     } else {
-                        let content = panel.querySelector('.panel-content');
-                        panel.style.maxHeight = content.scrollHeight + "px";
+                        panel.style.maxHeight = panel.scrollHeight + "px";
+                    }
+
+                    for (const otherAccordion of accordions) {
+                        if (otherAccordion !== this) {
+                           otherAccordion.classList.remove("active");
+                           otherAccordion.nextElementSibling.style.maxHeight = null;
+                        }
                     }
                 });
             }
-        });
+        })
+        .catch(error => console.error('Error fetching JSON:', error));
 });
