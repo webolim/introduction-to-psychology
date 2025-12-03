@@ -1,170 +1,78 @@
 [
   {
     "question": "Enumerate mental disorders",
-    "answer": "<p>Mental disorders include a wide range of conditions. Some common categories are:</p><ul><li><b>Anxiety Disorders:</b> Generalized Anxiety Disorder, Panic Disorder, Phobias.</li><li><b>Mood Disorders:</b> Major Depressive Disorder, Bipolar Disorder.</li><li><b>Psychotic Disorders:</b> Schizophrenia.</li><li><b>Personality Disorders:</b> Borderline Personality Disorder, Narcissistic Personality Disorder.</li><li><b>Eating Disorders:</b> Anorexia Nervosa, Bulimia Nervosa.</li><li><b>Trauma and Stressor-Related Disorders:</b> PTSD.</li><li><b>Neurodevelopmental Disorders:</b> Autism Spectrum Disorder, ADHD.</li></ul>"
+    "answer": "<p>Mental disorders include a wide range of conditions:</p><ul><li><b>Anxiety Disorders:</b> GAD, Panic Disorder, Phobias</li><li><b>Mood Disorders:</b> Depression, Bipolar Disorder</li><li><b>Psychotic Disorders:</b> Schizophrenia</li><li><b>Personality Disorders:</b> Borderline, Narcissistic</li><li><b>Eating Disorders:</b> Anorexia, Bulimia</li><li><b>Trauma-Related:</b> PTSD</li><li><b>Neurodevelopmental:</b> ADHD, Autism</li></ul>"
   },
   {
     "question": "What is psychology?",
-    "answer": "<p>Psychology is the scientific study of the mind and behavior. It explores conscious and unconscious phenomena, including feelings and thoughts, to understand and explain how people think, act, and feel.</p>"
+    "answer": "<p>Psychology is the <b>scientific study of mind and behavior</b>. It explores how people think, feel, act, and interact, examining both conscious and unconscious phenomena to understand human nature.</p>"
   },
   {
     "question": "Who is the 1st counsellor of India?",
-    "answer": "<p>There is no single individual officially recognized as the 'first' counselor of India. The professional field of counseling developed more recently through the contributions of various individuals and institutions like the Indian Psychological Association.</p>"
+    "answer": "<p><b>Lord Krishna</b> is considered the first counselor of India. In the Bhagavad Gita, he counseled Arjuna on the battlefield of Kurukshetra, guiding him through his moral dilemma—regarded as the first documented counseling session in Indian tradition.</p>"
   },
   {
     "question": "In perception the sensory physical energy transfused to receptor reciprocal called as __________",
-    "answer": "<p>Transduction.</p>"
+    "answer": "<p><b>Transduction</b> – The process by which sensory receptors convert physical energy (light, sound, pressure) into neural signals that the brain can interpret.</p>"
   },
   {
     "question": "What is operant Conditioning?",
-    "answer": "<p>Operant conditioning is a type of learning where behavior is controlled by its consequences. A voluntary behavior is associated with a reward or punishment, which strengthens or weakens the likelihood of that behavior being repeated.</p>"
+    "answer": "<p>Operant conditioning is a type of learning developed by <b>B.F. Skinner</b> where behavior is modified by its consequences. Behaviors followed by <b>reinforcement</b> increase, while those followed by <b>punishment</b> decrease in frequency.</p>"
   },
   {
     "question": "What is learning?",
-    "answer": "<p>Learning is a relatively permanent change in behavior or knowledge that results from experience. It involves acquiring new information, skills, or attitudes through study, practice, or being taught.</p>"
+    "answer": "<p>Learning is a <b>relatively permanent change in behavior or knowledge</b> that results from experience or practice. It involves acquiring new skills, information, or behaviors through study, instruction, or observation.</p>"
   },
   {
     "question": "Explain short term memory in short.",
-    "answer": "<p>Short-term memory, also known as primary or active memory, is the capacity to hold a small amount of information in an active, readily available state for a brief period, typically for a few seconds to a minute.</p>"
+    "answer": "<p>Short-term memory (STM) holds a <b>small amount of information</b> for a <b>short period (15-30 seconds)</b>. It has a limited capacity of <b>7±2 items</b> (Miller's Magic Number) and acts as temporary storage before transfer to long-term memory.</p>"
   },
   {
     "question": "Write about classical types of personality.",
-    "answer": "<p>The classical personality types, proposed by Hippocrates, are based on four temperaments linked to bodily fluids:</p><ul><li><b>Sanguine (blood):</b> Cheerful, optimistic, and social.</li><li><b>Choleric (yellow bile):</b> Short-tempered, irritable, and ambitious.</li><li><b>Melancholic (black bile):</b> Analytical, wise, and quiet.</li><li><b>Phlegmatic (phlegm):</b> Relaxed, peaceful, and calm.</li></ul>"
+    "answer": "<p>Classical personality types by <b>Hippocrates</b> based on four temperaments:</p><ul><li><b>Sanguine (Blood):</b> Cheerful, optimistic, sociable</li><li><b>Choleric (Yellow Bile):</b> Ambitious, short-tempered</li><li><b>Melancholic (Black Bile):</b> Analytical, thoughtful</li><li><b>Phlegmatic (Phlegm):</b> Calm, relaxed, peaceful</li></ul>"
   },
   {
     "question": "Mention the levels of consciousness of personality.",
-    "answer": "<p>According to Sigmund Freud, there are three levels of consciousness:</p><ul><li><b>Conscious:</b> Our current awareness of thoughts, feelings, and perceptions.</li><li><b>Preconscious (Subconscious):</b> Information not in current awareness but can be easily recalled.</li><li><b>Unconscious:</b> Deepest drives, instincts, and repressed memories that influence behavior without our awareness.</li></ul>"
+    "answer": "<p>According to <b>Sigmund Freud</b>, three levels of consciousness:</p><ul><li><b>Conscious:</b> Current awareness of thoughts and feelings</li><li><b>Preconscious:</b> Information easily accessible but not currently in awareness</li><li><b>Unconscious:</b> Repressed memories and instincts influencing behavior without awareness</li></ul>"
   },
   {
     "question": "What are the causes of mental conflicts?",
-    "answer": "<p>Mental conflicts arise from the clash of opposing desires or motives. Common causes include:</p><ul><li><b>Approach-Approach Conflict:</b> Choosing between two attractive goals.</li><li><b>Avoidance-Avoidance Conflict:</b> Choosing between two unattractive options.</li><li><b>Approach-Avoidance Conflict:</b> Being both attracted to and repelled by the same goal.</li><li><b>Frustration:</b> The blocking of a goal-directed behavior.</li></ul>"
+    "answer": "<p>Mental conflicts arise from opposing desires. Main causes:</p><ul><li><b>Approach-Approach:</b> Choosing between two attractive options</li><li><b>Avoidance-Avoidance:</b> Choosing between two undesirable options</li><li><b>Approach-Avoidance:</b> Goal has both attractive and repulsive aspects</li><li><b>Frustration:</b> Blocking of goal-directed behavior</li></ul>"
   },
   {
     "question": "What does the term 'cognition' refer to?",
-    "answer": "<p>Cognition refers to the mental processes involved in gaining knowledge and comprehension. These processes include thinking, knowing, remembering, judging, and problem-solving.</p>"
+    "answer": "<p>Cognition refers to <b>mental processes</b> involved in gaining knowledge and comprehension, including <b>thinking, knowing, remembering, judging, perceiving, reasoning, problem-solving,</b> and <b>decision-making</b>.</p>"
   },
   {
     "question": "What is the basic unit of the nervous system?",
-    "answer": "<p>The basic unit of the nervous system is the neuron, or nerve cell.</p>"
+    "answer": "<p>The basic unit of the nervous system is the <b>Neuron</b> (nerve cell). It transmits information via electrical and chemical signals, consisting of a cell body (soma), dendrites, and an axon.</p>"
   },
   {
     "question": "What is depression?",
-    "answer": "<p>Depression is a mood disorder causing a persistent feeling of sadness and loss of interest. It affects how you feel, think, and behave and can lead to various emotional and physical problems.</p>"
+    "answer": "<p>Depression is a <b>mood disorder</b> characterized by persistent sadness, hopelessness, and loss of interest. Symptoms include changes in sleep, appetite, energy, concentration, and may include suicidal thoughts.</p>"
   },
   {
     "question": "What are the goals of psychology?",
-    "answer": "<p>The four main goals of psychology are:</p><ul><li><b>To Describe:</b> To observe and document behavior and mental processes.</li><li><b>To Explain:</b> To understand the causes of behavior.</li><li><b>To Predict:</b> To anticipate how people will act and think.</li><li><b>To Change or Control:</b> To influence or modify behavior constructively.</li></ul>"
+    "answer": "<p>Four main goals of psychology:</p><ul><li><b>Describe:</b> Observe and document behavior</li><li><b>Explain:</b> Understand causes of behavior</li><li><b>Predict:</b> Anticipate future behavior</li><li><b>Control/Change:</b> Modify behavior constructively</li></ul>"
   },
   {
     "question": "What is meant by stress?",
-    "answer": "<p>Stress is the body's response to any demand or pressure. It is a feeling of emotional or physical tension caused by any event or thought that makes you feel frustrated, angry, or nervous.</p>"
+    "answer": "<p>Stress is the <b>body's physical and psychological response</b> to demands, challenges, or threats (stressors). It involves tension, frustration, or anxiety. Can be <b>eustress</b> (positive) or <b>distress</b> (negative).</p>"
   },
   {
     "question": "What is the meaning of manas?",
-    "answer": "<p>In Yogic and Ayurvedic traditions, <i>Manas</i> refers to the mind, specifically the faculty of thought, feeling, and volition. It is considered the inner instrument that processes sensory information, forms thoughts and emotions, and makes decisions.</p>"
+    "answer": "<p>In Yogic and Ayurvedic traditions, <b>Manas</b> refers to the <b>mind</b>—the faculty of thought, feeling, and volition. It is the inner instrument (<i>antahkarana</i>) that processes sensory information and enables perception and decision-making.</p>"
   },
   {
     "question": "Who is the father of psychology?",
-    "answer": "<p>Wilhelm Wundt is widely regarded as the 'father of psychology' for establishing the first psychology laboratory in Leipzig, Germany, in 1879.</p>"
+    "answer": "<p><b>Wilhelm Wundt</b> is the 'Father of Modern/Experimental Psychology.' He established the <b>first experimental psychology laboratory</b> in Leipzig, Germany, in <b>1879</b>.</p>"
   },
   {
     "question": "Which type of memory lasts only for a few seconds?",
-    "answer": "<p>Sensory memory holds sensory information for a few seconds or less. Short-term memory can hold information for up to about 30 seconds without rehearsal.</p>"
+    "answer": "<p><b>Sensory Memory</b> lasts only for a few seconds (0.5-3 seconds). It briefly holds sensory information. Types include <b>iconic memory</b> (visual) and <b>echoic memory</b> (auditory).</p>"
   },
   {
     "question": "What does 'IQ' stand for?",
-    "answer": "<p>IQ stands for Intelligence Quotient. It is a score derived from standardized tests designed to assess human intelligence.</p>"
-  },
-  {
-    "question": "YamaNiyama _________________________ Complete the lines",
-    "answer": "<p>The complete line is from the Yoga Sutras of Patanjali (2.29): <b>Yama niyama asana pranayama pratyahara dharana dhyana samadhayo-ashtavangani</b>. This sutra lists the eight limbs of yoga.</p>"
-  },
-  {
-    "question": "What are Avidya, Asmita, Raga, dvesha, Abhinivesa and write their significance?",
-    "answer": "<p>These are the five kleshas or afflictions that are the root cause of human suffering according to Patanjali's Yoga Sutras. Their significance lies in the fact that the practice of yoga aims to eliminate them to achieve liberation.</p><ul><li><b>Avidya (Ignorance):</b> The root klesha, it is the misunderstanding of the true nature of reality.</li><li><b>Asmita (Egoism):</b> The identification of the Self with the ego.</li><li><b>Raga (Attachment):</b> The desire for things that bring pleasure.</li><li><b>Dvesha (Aversion):</b> The avoidance of things that cause pain.</li><li><b>Abhinivesha (Fear of Death):</b> The clinging to life and fear of death.</li></ul>"
-  },
-  {
-    "question": "What quantities are accepted according to Uttara Mimamsa?",
-    "answer": "<p>Uttara Mimamsa, also known as Vedanta, accepts six pramanas (means of valid knowledge):</p><ol><li><b>Pratyaksha</b> (Perception)</li><li><b>Anumana</b> (Inference)</li><li><b>Upamana</b> (Comparison and Analogy)</li><li><b>Arthapatti</b> (Postulation, derivation from circumstances)</li><li><b>Anupalabdhi</b> (Non-perception, negative/cognitive proof)</li><li><b>Shabda</b> (Word, testimony of past or present reliable experts)</li></ol>"
-  },
-  {
-    "question": "Complete Yoga's Chittasya_________________.",
-    "answer": "<p>The complete line is from the Yoga Sutras of Patanjali (1.2): <b>Yogas chitta vritti nirodhah</b>. It translates to \"Yoga is the cessation of the modifications of the mind.\" </p>"
-  },
-  {
-    "question": "Name the seven sages and their role in spreading yoga?",
-    "answer": "<p>The Saptarishis (seven sages) are revered in Hindu tradition as the pioneers of yoga. They are said to have taken the profound knowledge of yoga to different parts of the world. The seven sages are Atri, Bharadwaja, Gautama, Jamadagni, Kashyapa, Vashistha, and Vishwamitra.</p>"
-  },
-  {
-    "question": "Write the definition of the word yoga and its meaning?",
-    "answer": "<p>The word \"yoga\" is derived from the Sanskrit root \"yuj,\" which means \"to yoke\" or \"to unite.\" It signifies the union of the individual consciousness with the universal consciousness. Yoga is a holistic practice that aims to bring harmony between the body, mind, and spirit. </p>"
-  },
-  {
-    "question": "Yuktaharaviharasya _________ Complete the verse.",
-    "answer": "<p>The complete verse from the Bhagavad Gita (6.17) is: <b>Yuktaharaviharasya yuktachestasya karmasu | Yuktasvapnavabodhasya yogo bhavati duhkhaha ||</b> This verse emphasizes the importance of a balanced lifestyle in the practice of yoga.</p>"
-  },
-  {
-    "question": "Explain the definition of yoga according to Buddhism with its meaning?",
-    "answer": "<p>In Buddhism, \"yoga\" is a broad term for spiritual discipline, primarily associated with meditation. The goal of Buddhist yoga is to attain enlightenment and freedom from suffering by calming the mind and gaining insight into the true nature of reality. It emphasizes mindfulness and awareness to overcome ignorance and delusion. </p>"
-  },
-  {
-    "question": "Write the concepts of Naradiya Bhakti Sutra on Bhakti Yoga.",
-    "answer": "<p>The Narada Bhakti Sutra defines bhakti (devotion) as intense, supreme love for God. It outlines the path of devotion, emphasizing that true bhakti is unconditional and free from worldly desires. The sutras describe the characteristics of a true devotee and the various forms of expressing devotion.</p>"
-  },
-  {
-    "question": "Which darshan describes the seven elements and what are they?",
-    "answer": "<p>The Vaisheshika darshana, founded by the sage Kanada, describes the seven padarthas (categories or elements) of reality. They are:</p><ul><li>Dravya (Substance)</li><li>Guna (Quality)</li><li>Karma (Action)</li><li>Samanya (Generality)</li><li>Vishesha (Particularity)</li><li>Samavaya (Inherence)</li><li>Abhava (Non-existence)</li></ul>"
-  },
-  {
-    "question": "List out the types of bhaktas.",
-    "answer": "<p>The Bhagavad Gita categorizes bhaktas (devotees) into four types: </p><ol><li><b>Arta:</b> The distressed, who turn to God for relief from suffering. </li><li><b>Artharthi:</b> The seeker of wealth, who prays for material prosperity. </li><li><b>Jijnasu:</b> The inquisitive, who seeks to understand the nature of God. </li><li><b>Jnani:</b> The wise, who has realized the ultimate truth and is devoted to God out of pure love and knowledge. </li></ol>"
-  },
-  {
-    "question": "What are the stages of jnana practice?",
-    "answer": "<p>The practice of Jnana Yoga, the path of knowledge, traditionally involves four stages or means of salvation (Sadhana Chatushtaya):</p><ol><li><b>Viveka</b> (Discrimination): The ability to differentiate between the real (Brahman) and the unreal (maya).</li><li><b>Vairagya</b> (Dispassion): Detachment from worldly desires and attachments.</li><li><b>Shad-sampat</b> (Six virtues):<ul><li><b>Shama</b> (calmness of mind)</li><li><b>Dama</b> (control of the senses)</li><li><b>Uparati</b> (cessation from worldly activities)</li><li><b>Titiksha</b> (endurance)</li><li><b>Shraddha</b> (faith)</li><li><b>Samadhana</b> (concentration)</li></ul></li><li><b>Mumukshutva</b> (Longing for liberation): An intense desire for moksha or liberation from the cycle of birth and death.</li></ol>"
-  },
-  {
-    "question": "Who is called yogaadhyaksha as per origin of yoga?",
-    "answer": "<p>As per the origin of yoga, Lord Shiva is often referred to as the 'Adiyogi' or the first yogi, and also as the 'Yogaadhyaksha', the lord of Yoga. He is believed to be the ultimate source of yogic knowledge.</p>"
-  },
-  {
-    "question": "Name the four Vedas.",
-    "answer": "<p>The four Vedas are: </p><ol><li>Rigveda</li><li>Yajurveda</li><li>Samaveda</li><li>Atharvaveda</li></ol>"
-  },
-  {
-    "question": "Yoga Shastra is sculpted by ________ and ________ is sculpted by Kapila.",
-    "answer": "<p>Yoga Shastra is sculpted by <b>Patanjali</b> and <b>Samkhya</b> is sculpted by Kapila.</p>"
-  },
-  {
-    "question": "What are the aims and objectives of yoga?",
-    "answer": "<p>The primary aims and objectives of yoga are to achieve a state of union between the individual self and the universal consciousness. This is achieved through the holistic development of the physical, mental, and spiritual aspects of an individual. Key objectives include:</p><ul><li>Promoting physical health and well-being. </li><li>Achieving mental clarity and emotional balance. </li><li>Fostering spiritual growth and self-realization. </li></ul>"
-  },
-  {
-    "question": "Mention the sections of the four Vedas.",
-    "answer": "<p>Each of the four Vedas is divided into four sections: </p><ul><li><b>Samhitas:</b> A collection of hymns and mantras. </li><li><b>Brahmanas:</b> Prose texts that explain the rituals and ceremonies. </li><li><b>Aranyakas:</b> \"Forest texts\" that discuss philosophical and meditative aspects. </li><li><b>Upanishads:</b> Philosophical texts that form the foundation of Vedanta philosophy and discuss the nature of reality and the self. </li></ul>"
-  },
-  {
-    "question": "Who are the acharya trayas in post-classical period of yoga?",
-    "answer": "<p>In the post-classical period of yoga, the \"Acharya Trayas\" or the trinity of teachers who played a pivotal role in the revival and popularization of Hatha Yoga are generally considered to be Matsyendranath, Gorakshanath, and Swatmarama.</p>"
-  },
-  {
-    "question": "Complete the following – 'Kushala Chittaighata ……",
-    "answer": "<p>The complete phrase is likely a variation of a Buddhist concept. In the context of yoga, a similar idea is expressed in the Yoga Sutras, emphasizing the importance of a skilled and focused mind. A possible completion could relate to the attainment of Samadhi or a state of mental clarity. Without a more specific source, a definitive completion is difficult.</p>"
-  },
-  {
-    "question": "……… prashamanopayah yoga ityabidiiyate…",
-    "answer": "<p>This is a definition of yoga found in the Yoga Vasistha, which states, \"Manah prashamanopayah yoga ityabhidhiyate,\" meaning \"Yoga is the method to quiet the mind.\"</p>"
-  },
-  {
-    "question": "Who is yoga pravrtaka as per origin of yoga?",
-    "answer": "<p>Hiranyagarbha is revered as the 'Yoga Pravartaka' or the originator of yoga. He is considered the first teacher of yoga who imparted this knowledge to the sages.</p>"
-  },
-  {
-    "question": "Definition of yoga according to Patanjali?",
-    "answer": "<p>According to Patanjali's Yoga Sutras (1.2), the definition of yoga is \"Yogas chitta vritti nirodhah,\" which translates to \"Yoga is the cessation of the fluctuations of the mind.\" </p>"
-  },
-  {
-    "question": "Explain laya yoga?",
-    "answer": "<p>Laya Yoga, from the Sanskrit word 'laya' meaning 'dissolution' or 'absorption', is a form of yoga that focuses on the dissolution of the individual self into the Supreme Consciousness. It is often associated with Kundalini Yoga as it involves the awakening of the Kundalini energy and its ascent through the chakras to achieve a state of Samadhi. The practice includes asanas, pranayama, mudras, and mantras. </p>"
-...
+    "answer": "<p>IQ stands for <b>Intelligence Quotient</b>. It is a score from standardized tests measuring intelligence. Formula: <b>IQ = (Mental Age / Chronological Age) × 100</b>. Average IQ is 100.</p>"
+  }
 ]
