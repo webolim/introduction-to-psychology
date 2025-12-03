@@ -32,9 +32,9 @@
     "answer": "<p>Classical personality types by <b>Hippocrates</b> based on four temperaments:</p><ul><li><b>Sanguine (Blood):</b> Cheerful, optimistic, sociable</li><li><b>Choleric (Yellow Bile):</b> Ambitious, short-tempered</li><li><b>Melancholic (Black Bile):</b> Analytical, thoughtful</li><li><b>Phlegmatic (Phlegm):</b> Calm, relaxed, peaceful</li></ul>"
   },
   {
-    "question": "Mention the levels of consciousness of personality.",
-    "answer": "<p>According to <b>Sigmund Freud</b>, three levels of consciousness:</p><ul><li><b>Conscious:</b> Current awareness of thoughts and feelings</li><li><b>Preconscious:</b> Information easily accessible but not currently in awareness</li><li><b>Unconscious:</b> Repressed memories and instincts influencing behavior without awareness</li></ul>"
-  },
+  "question": "Mention the levels of consciousness of personality.",
+  "answer": "<p>According to <b>Sigmund Freud's Topographical Model</b> (Iceberg Theory), there are three levels:</p><ul><li><b>Conscious:</b> Current awareness of thoughts, feelings, and perceptions (tip of iceberg)</li><li><b>Preconscious (Subconscious):</b> Memories not in current awareness but easily retrievable (just below surface)</li><li><b>Unconscious:</b> Repressed memories, primitive desires, and hidden fears influencing behavior without awareness (largest, deepest part)</li></ul>"
+},
   {
     "question": "What are the causes of mental conflicts?",
     "answer": "<p>Mental conflicts arise from opposing desires. Main causes:</p><ul><li><b>Approach-Approach:</b> Choosing between two attractive options</li><li><b>Avoidance-Avoidance:</b> Choosing between two undesirable options</li><li><b>Approach-Avoidance:</b> Goal has both attractive and repulsive aspects</li><li><b>Frustration:</b> Blocking of goal-directed behavior</li></ul>"
